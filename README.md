@@ -1,4 +1,4 @@
 # learning-git
 This is my first git repository
 <br>
-Author: Buddhdeb Khatua (ABP)
+<p>Author: Buddhdeb Khatua (ABP)</p>
